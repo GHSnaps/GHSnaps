@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...CATUPIRY
-- 🌱 I’m currently learning ...CATUPIRY GOSTOSO
-- 👯 I’m looking to collaborate on ...CATUPYRIZÃO
-- 🤔 I’m looking for help with ...CATUPIRIZINHO
-- 💬 Ask me about ...CATUPIRY GORDO
-- 📫 How to reach me: ...CATUPIRY@CATUPIRY.COM.CT
-- 😄 Pronouns: ...CATUPIRYLADY
-- ⚡ Fun fact: ...I REALLY LIKE CATUPIRY
+- 🔭 I’m currently working as a Web Developer
+- 👯 I’m looking to collaborate on interfaces for Data Science projects
+- 💬 Ask me about Bootstrap, React and/or API
+- ⚡ Fun fact: I can dance forró
