@@ -1,3 +1,4 @@
+![](https://github.com/GHSnaps/GHSnaps/blob/main/Test%20banner%20GH.svg)
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Web Developer
